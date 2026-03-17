@@ -1,7 +1,7 @@
 {
   "name": "design-portfolio",
   "private": true,
-  "homepage": "https://stawsy.github.io/Steven-Bustos-portfolio",
+  "homepage": "https://stawsy.github.io/Steven-Bustos-portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy: "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
