@@ -2,9 +2,6 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import UserInterface from "./components/UserInterface";
 import Marketing from "./components/Marketing";
-import Illustration from "./components/Illustration";
-import Print from "./components/Print";
-import Motion from "./components/Motion";
 import "./App.css";
 
 function App() {
