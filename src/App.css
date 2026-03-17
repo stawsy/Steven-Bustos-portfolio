@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/*  Colour palatte used is Peachy Soda - https://www.color-hex.com/color-palette/23091  */
+
+body {
+    background-color: #fb452b;
+    color: #fb452b;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+
+hr {
+    border-top: 1px solid #333;
+    opacity: 1;
+}
+
+h1 {
+    font-size: 60px;
+    color: #fb452b;
+    font-family: "DynaPuff", system-ui, "Open Sans", sans-seri;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+h2 {
+    font-size: 40px;
+    color: #fb452b;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+h3 {
+    font-size: 30px;
+    color: #fb452b;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h4 {
+    font-size: 30px;
+    color: #333333;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h5 {
+    font-size: 20px;
+    color: #fb452b;
+    font-family: "DynaPuff", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+p {
+    font-size: 16px;
+    color: #000000;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.dynapuff {
+    font-size: 22px;
+    color: #fb452b;
+    font-family: "DynaPuff", system-ui, "Open Sans", sans-seri;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+.d-flex.align-items-start img {
+    border: solid 1px #dddddd !important;
+    margin: 2px;
+    cursor: pointer;
+    width: 100%;
+    height: auto;
+}
+
+.header {
+    height: 190px;
+    z-index: 3;
+}
+
+.content {
+    background-color: #ffffff;
+}
+
+.footer {
+    background-color: #ffcbb9;
+}
+
+.alert-danger {
+    --bs-alert-color: #fb452b;
+    --bs-alert-bg: #ffffff;
+    --bs-alert-border-color: #ffffff;
+}
+
+.alert-dismissible {
+    padding-right: 1rem;
+}
+
+.cloud-svg-color {
+    fill: #fb452b;
+}
+
+.clouds {
+    top:0px
+}
+
+
+.btn-cloud {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #fb452b;
+    --bs-btn-border-color: #fb452b;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #bb2d3b;
+    --bs-btn-hover-border-color: #b02a37;
+    --bs-btn-focus-shadow-rgb: 225, 83, 97;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #b02a37;
+    --bs-btn-active-border-color: #a52834;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #dc3545;
+    --bs-btn-disabled-border-color: #dc3545;
+}
+
+.light-orange-bg {
+    background-color: #ffcbb9;
+}
+
+.light-grey-bg {
+    background-color: #f1f1f1;
+}
+
+/* Portfolio Sections = User interface */
+
+.section {
+    top: 270px;
+}
+
+.description {
+    background-color: #ffffff;
+    text-align: left;
+    float: left;
+    border: 2px solid #fb452b;
+    border-left: 15px solid #fb452b;
+    padding-left: 20px !important;
+}
+
+.description p {
+    font-size: 18px;
+    margin-bottom: 0rem;
+}
