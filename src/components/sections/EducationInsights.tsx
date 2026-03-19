@@ -6,24 +6,16 @@ import "react-photo-album/rows.css";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
+import ImgDashboard from "../../assets/DoE-insights-dashboard.png";
+import ImgLBOTE from "../../assets/DoE-insights-dashboard-LBOTE.png";
+import ImgTrends from "../../assets/DoE-insights-dashboard-trends.png";
+
 function EducationInsights() {
   const [index, setIndex] = useState(-1);
   const insights = [
-    {
-      src: "/Steven-Bustos-portfolio/src/assets/DoE-insights-dashboard.png",
-      width: 1178,
-      height: 786,
-    },
-    {
-      src: "/Steven-Bustos-portfolio/src/assets/DoE-insights-dashboard-LBOTE.png",
-      width: 1296,
-      height: 768,
-    },
-    {
-      src: "/Steven-Bustos-portfolio/src/assets/DoE-insights-dashboard-trends.png",
-      width: 1296,
-      height: 838,
-    },
+    { src: ImgDashboard, width: 1178, height: 786 },
+    { src: ImgLBOTE, width: 1296, height: 768 },
+    { src: ImgTrends, width: 1296, height: 838 },
   ];
 
   return (
