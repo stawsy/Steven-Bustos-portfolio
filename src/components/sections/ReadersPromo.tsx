@@ -6,41 +6,49 @@ import "react-photo-album/columns.css";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
+import ImgEdm1 from "../../assets/readers-edm-01.jpg";
+import ImgEdm2 from "../../assets/readers-edm-02.jpg";
+import ImgEdm3 from "../../assets/readers-edm-03.jpg";
+import ImgEofys from "../../assets/readers-EOFYS.jpg";
+import ImgHills from "../../assets/readers-beverly-hills.jpg";
+import ImgBeach from "../../assets/readers-beach.jpg";
+import ImgSkyline from "../../assets/readers-skyline.jpg";
+
 function ReadersPromo() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/Steven-Bustos-portfolio/src/assets/readers-edm-01.jpg",
+      src: ImgEdm1,
       width: 600,
       height: 566,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/readers-edm-02.jpg",
+      src: ImgEdm2,
       width: 369,
       height: 750,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/readers-edm-03.jpg",
+      src: ImgEdm3,
       width: 418,
       height: 850,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/readers-EOFYS.jpg",
+      src: ImgEofys,
       width: 600,
       height: 713,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/readers-beverly-hills.jpg",
+      src: ImgHills,
       width: 600,
       height: 650,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/readers-beach.jpg",
+      src: ImgBeach,
       width: 600,
       height: 650,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/readers-skyline.jpg",
+      src: ImgSkyline,
       width: 600,
       height: 650,
     },

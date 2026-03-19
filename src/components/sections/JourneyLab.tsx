@@ -6,26 +6,31 @@ import "react-photo-album/rows.css";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
+import ImgEarlychildhood from "../../assets/JL-Early-childhood-start.jpg";
+import ImgExpectedcosts1 from "../../assets/JL-Expected-Costs-Historic-pathways.png";
+import ImgExpectedcosts2 from "../../assets/JL-Expected-Costs-ID-characteristics.jpg";
+import ImgHomelessness from "../../assets/JL-Homelessness-pathways-overview.png";
+
 function JourneyLab() {
   const [index, setIndex] = useState(-1);
   const jlab = [
     {
-      src: "/Steven-Bustos-portfolio/src/assets/JL-Early-childhood-start.jpg",
+      src: ImgEarlychildhood,
       width: 1440,
       height: 1959,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/JL-Expected-Costs-Historic-pathways.png",
+      src: ImgExpectedcosts1,
       width: 1440,
       height: 4130,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/JL-Expected-Costs-ID-characteristics.jpg",
+      src: ImgExpectedcosts2,
       width: 1440,
       height: 3279,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/JL-Homelessness-pathways-overview.png",
+      src: ImgHomelessness,
       width: 1440,
       height: 2195,
     },

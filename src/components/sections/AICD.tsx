@@ -6,34 +6,20 @@ import "react-photo-album/columns.css";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
+import ImgEdm01 from "../../assets/AICD-edm-01.png";
+import ImgEdm02 from "../../assets/AICD-edm-02.png";
+import ImgEdm03 from "../../assets/AICD-edm-03.png";
+import ImgEdm04 from "../../assets/AICD-edm-04.png";
+import ImgEdm05 from "../../assets/AICD-edm-05.png";
+
 function AICD() {
   const [index, setIndex] = useState(-1);
   const slides = [
-    {
-      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-01.png",
-      width: 940,
-      height: 845,
-    },
-    {
-      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-02.png",
-      width: 437,
-      height: 887,
-    },
-    {
-      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-03.png",
-      width: 690,
-      height: 1069,
-    },
-    {
-      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-04.png",
-      width: 437,
-      height: 887,
-    },
-    {
-      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-05.png",
-      width: 437,
-      height: 887,
-    },
+    { src: ImgEdm01, width: 940, height: 845 },
+    { src: ImgEdm02, width: 437, height: 887 },
+    { src: ImgEdm03, width: 690, height: 1069 },
+    { src: ImgEdm04, width: 437, height: 887 },
+    { src: ImgEdm05, width: 437, height: 887 },
   ];
 
   return (

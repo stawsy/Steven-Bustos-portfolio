@@ -6,26 +6,31 @@ import "react-photo-album/columns.css";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
+import ImgPink from "../../assets/capstone-pink.png";
+import ImgBlue from "../../assets/capstone-blue.png";
+import ImgBanking from "../../assets/capstone-banking-reconciliation.png";
+import ImgDashboard from "../../assets/capstone-dashboard.png";
+
 function Capstone() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/Steven-Bustos-portfolio/src/assets/capstone-pink.png",
+      src: ImgPink,
       width: 1920,
       height: 1080,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/capstone-blue.png",
+      src: ImgBlue,
       width: 1920,
       height: 1080,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/capstone-banking-reconciliation.png",
+      src: ImgBanking,
       width: 1920,
       height: 1080,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/capstone-dashboard.png",
+      src: ImgDashboard,
       width: 1920,
       height: 1080,
     },

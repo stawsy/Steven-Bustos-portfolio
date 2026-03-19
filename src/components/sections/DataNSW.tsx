@@ -6,26 +6,31 @@ import "react-photo-album/rows.css";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
+import ImgDatansw1 from "../../assets/dataNSW-01.jpg";
+import ImgDatansw2 from "../../assets/dataNSW-02.jpg";
+import ImgMetadata1 from "../../assets/Metadata---website-1.png";
+import ImgMetadata2 from "../../assets/Metadata---website-2.jpg";
+
 function DataNSW() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/Steven-Bustos-portfolio/src/assets/dataNSW-01.jpg",
+      src: ImgDatansw1,
       width: 998,
       height: 2241,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/dataNSW-02.jpg",
+      src: ImgDatansw2,
       width: 948,
       height: 1445,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/Metadata---website-1.png",
+      src: ImgMetadata1,
       width: 675,
       height: 1087,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/Metadata---website-2.JPg",
+      src: ImgMetadata2,
       width: 675,
       height: 1087,
     },

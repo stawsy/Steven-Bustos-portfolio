@@ -6,31 +6,37 @@ import "react-photo-album/columns.css";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
+import ImgLogin360 from "../../assets/property-dollar-connect-360-login.jpg";
+import ImgAllclients from "../../assets/property-dollar-All-Clients.png";
+import ImgNewuser from "../../assets/property-dollar-new-user.png";
+import ImgCalltoaction from "../../assets/property-dollar-Call-to-Action.png";
+import ImgConnect360 from "../../assets/property-dollar-connect-360.png";
+
 function PropertyDollar() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-connect-360-login.jpg",
+      src: ImgLogin360,
       width: 1920,
       height: 1268,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-All-Clients.png",
+      src: ImgAllclients,
       width: 1920,
       height: 1177,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-new-user.png",
+      src: ImgNewuser,
       width: 1920,
       height: 1480,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-Call-to-Action.png",
+      src: ImgCalltoaction,
       width: 1920,
       height: 1465,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-connect-360.png",
+      src: ImgConnect360,
       width: 1920,
       height: 1577,
     },

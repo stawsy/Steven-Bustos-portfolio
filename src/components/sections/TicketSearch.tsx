@@ -6,22 +6,26 @@ import "react-photo-album/rows.css";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
+import ImgBackend from "../../assets/TicketSearch-backend-01.jpg";
+import ImgFrontend from "../../assets/TicketSearch-frontend-01.jpg";
+import ImgWebsite from "../../assets/TicketSearch-website.jpg";
+
 function TicketSearch() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/Steven-Bustos-portfolio/src/assets/TicketSearch-backend-01.jpg",
+      src: ImgBackend,
       width: 1920,
       height: 1066,
       title: "Flamingo",
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/TicketSearch-frontend-01.jpg",
+      src: ImgFrontend,
       width: 1920,
       height: 1055,
     },
     {
-      src: "/Steven-Bustos-portfolio/src/assets/TicketSearch-website.jpg",
+      src: ImgWebsite,
       width: 1388,
       height: 1033,
     },
