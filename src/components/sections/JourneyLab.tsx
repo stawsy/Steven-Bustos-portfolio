@@ -10,22 +10,22 @@ function JourneyLab() {
   const [index, setIndex] = useState(-1);
   const jlab = [
     {
-      src: "/src/assets/JL-Early-childhood-start.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/JL-Early-childhood-start.jpg",
       width: 1440,
       height: 1959,
     },
     {
-      src: "/src/assets/JL-Expected-Costs-Historic-pathways.png",
+      src: "/Steven-Bustos-portfolio/src/assets/JL-Expected-Costs-Historic-pathways.png",
       width: 1440,
       height: 4130,
     },
     {
-      src: "/src/assets/JL-Expected-Costs-ID-characteristics.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/JL-Expected-Costs-ID-characteristics.jpg",
       width: 1440,
       height: 3279,
     },
     {
-      src: "/src/assets/JL-Homelessness-pathways-overview.png",
+      src: "/Steven-Bustos-portfolio/src/assets/JL-Homelessness-pathways-overview.png",
       width: 1440,
       height: 2195,
     },

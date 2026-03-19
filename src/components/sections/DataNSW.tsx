@@ -10,22 +10,22 @@ function DataNSW() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/src/assets/dataNSW-01.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/dataNSW-01.jpg",
       width: 998,
       height: 2241,
     },
     {
-      src: "/src/assets/dataNSW-02.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/dataNSW-02.jpg",
       width: 948,
       height: 1445,
     },
     {
-      src: "/src/assets/Metadata---website-1.png",
+      src: "/Steven-Bustos-portfolio/src/assets/Metadata---website-1.png",
       width: 675,
       height: 1087,
     },
     {
-      src: "/src/assets/Metadata---website-2.JPg",
+      src: "/Steven-Bustos-portfolio/src/assets/Metadata---website-2.JPg",
       width: 675,
       height: 1087,
     },

@@ -10,22 +10,22 @@ function Capstone() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/src/assets/capstone-pink.png",
+      src: "/Steven-Bustos-portfolio/src/assets/capstone-pink.png",
       width: 1920,
       height: 1080,
     },
     {
-      src: "/src/assets/capstone-blue.png",
+      src: "/Steven-Bustos-portfolio/src/assets/capstone-blue.png",
       width: 1920,
       height: 1080,
     },
     {
-      src: "/src/assets/capstone-banking-reconciliation.png",
+      src: "/Steven-Bustos-portfolio/src/assets/capstone-banking-reconciliation.png",
       width: 1920,
       height: 1080,
     },
     {
-      src: "/src/assets/capstone-dashboard.png",
+      src: "/Steven-Bustos-portfolio/src/assets/capstone-dashboard.png",
       width: 1920,
       height: 1080,
     },

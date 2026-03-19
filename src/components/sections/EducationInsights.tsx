@@ -10,17 +10,17 @@ function EducationInsights() {
   const [index, setIndex] = useState(-1);
   const insights = [
     {
-      src: "/src/assets/DoE-insights-dashboard.png",
+      src: "/Steven-Bustos-portfolio/src/assets/DoE-insights-dashboard.png",
       width: 1178,
       height: 786,
     },
     {
-      src: "/src/assets/DoE-insights-dashboard-LBOTE.png",
+      src: "/Steven-Bustos-portfolio/src/assets/DoE-insights-dashboard-LBOTE.png",
       width: 1296,
       height: 768,
     },
     {
-      src: "/src/assets/DoE-insights-dashboard-trends.png",
+      src: "/Steven-Bustos-portfolio/src/assets/DoE-insights-dashboard-trends.png",
       width: 1296,
       height: 838,
     },

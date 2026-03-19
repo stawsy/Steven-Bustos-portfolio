@@ -10,27 +10,27 @@ function PropertyDollar() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/src/assets/property-dollar-connect-360-login.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-connect-360-login.jpg",
       width: 1920,
       height: 1268,
     },
     {
-      src: "/src/assets/property-dollar-All-Clients.png",
+      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-All-Clients.png",
       width: 1920,
       height: 1177,
     },
     {
-      src: "/src/assets/property-dollar-new-user.png",
+      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-new-user.png",
       width: 1920,
       height: 1480,
     },
     {
-      src: "/src/assets/property-dollar-Call-to-Action.png",
+      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-Call-to-Action.png",
       width: 1920,
       height: 1465,
     },
     {
-      src: "/src/assets/property-dollar-connect-360.png",
+      src: "/Steven-Bustos-portfolio/src/assets/property-dollar-connect-360.png",
       width: 1920,
       height: 1577,
     },

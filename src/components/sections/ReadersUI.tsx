@@ -10,42 +10,42 @@ function ReadersUI() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/src/assets/readers-carnival-01.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-carnival-01.jpg",
       width: 600,
       height: 521,
     },
     {
-      src: "/src/assets/readers-road-to-riches.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-road-to-riches.jpg",
       width: 600,
       height: 521,
     },
     {
-      src: "/src/assets/readers-cruise-ship.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-cruise-ship.jpg",
       width: 800,
       height: 544,
     },
     {
-      src: "/src/assets/readers-carnival-01-cartoon.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-carnival-01-cartoon.jpg",
       width: 800,
       height: 544,
     },
     {
-      src: "/src/assets/readers-quiz-02.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-quiz-02.jpg",
       width: 600,
       height: 521,
     },
     {
-      src: "/src/assets/readers-postsheet-01.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-postsheet-01.jpg",
       width: 1024,
       height: 600,
     },
     {
-      src: "/src/assets/readers-postsheet-02.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-postsheet-02.jpg",
       width: 1024,
       height: 600,
     },
     {
-      src: "/src/assets/readers-webad-01.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-webad-01.jpg",
       width: 600,
       height: 1300,
     },

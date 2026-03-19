@@ -10,27 +10,27 @@ function AICD() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/src/assets/AICD-edm-01.png",
+      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-01.png",
       width: 940,
       height: 845,
     },
     {
-      src: "/src/assets/AICD-edm-02.png",
+      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-02.png",
       width: 437,
       height: 887,
     },
     {
-      src: "/src/assets/AICD-edm-03.png",
+      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-03.png",
       width: 690,
       height: 1069,
     },
     {
-      src: "/src/assets/AICD-edm-04.png",
+      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-04.png",
       width: 437,
       height: 887,
     },
     {
-      src: "/src/assets/AICD-edm-05.png",
+      src: "/Steven-Bustos-portfolio/src/assets/AICD-edm-05.png",
       width: 437,
       height: 887,
     },

@@ -10,18 +10,18 @@ function TicketSearch() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/src/assets/TicketSearch-backend-01.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/TicketSearch-backend-01.jpg",
       width: 1920,
       height: 1066,
       title: "Flamingo",
     },
     {
-      src: "/src/assets/TicketSearch-frontend-01.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/TicketSearch-frontend-01.jpg",
       width: 1920,
       height: 1055,
     },
     {
-      src: "/src/assets/TicketSearch-website.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/TicketSearch-website.jpg",
       width: 1388,
       height: 1033,
     },

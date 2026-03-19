@@ -10,37 +10,37 @@ function ReadersPromo() {
   const [index, setIndex] = useState(-1);
   const slides = [
     {
-      src: "/src/assets/readers-edm-01.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-edm-01.jpg",
       width: 600,
       height: 566,
     },
     {
-      src: "/src/assets/readers-edm-02.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-edm-02.jpg",
       width: 369,
       height: 750,
     },
     {
-      src: "/src/assets/readers-edm-03.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-edm-03.jpg",
       width: 418,
       height: 850,
     },
     {
-      src: "/src/assets/readers-EOFYS.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-EOFYS.jpg",
       width: 600,
       height: 713,
     },
     {
-      src: "/src/assets/readers-beverly-hills.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-beverly-hills.jpg",
       width: 600,
       height: 650,
     },
     {
-      src: "/src/assets/readers-beach.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-beach.jpg",
       width: 600,
       height: 650,
     },
     {
-      src: "/src/assets/readers-skyline.jpg",
+      src: "/Steven-Bustos-portfolio/src/assets/readers-skyline.jpg",
       width: 600,
       height: 650,
     },
