@@ -46,7 +46,7 @@ function JourneyLab() {
         // enable optional lightbox plugins
       />
 
-      <div className="row mb-5">
+      <div className="row mb-2">
         <div className="col-12 text-left pt-5 ps-2">
           <div className="d-flex align-items-start">
             <div className="col-sm-12">
@@ -57,7 +57,7 @@ function JourneyLab() {
               />
             </div>
           </div>
-          <div className="mt-3 p-2 text-start description col-8">
+          <div className="mt-3 p-2 text-start description col-xl-8 col-md-12">
             <h3>Journey Lab</h3>
             <p>
               This work is live on the{" "}

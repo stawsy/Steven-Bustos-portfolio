@@ -52,7 +52,7 @@ function PropertyDollar() {
         // enable optional lightbox plugins
       />
 
-      <div className="row mb-5">
+      <div className="row mb-2">
         <div className="col-12 text-left pt-5 ps-2">
           <div className="d-flex align-items-start">
             <div className="col-sm-12">
@@ -63,9 +63,18 @@ function PropertyDollar() {
               />
             </div>
           </div>
-          <div className="mt-2 p-2 text-end description">
+          <div className="mt-3 p-2 text-start description col-xl-8 col-md-12">
             <h3>Property Dollar</h3>
             <p>Connect 360.</p>
+            <p className="mt-2">
+              This was a project to design a new user interface for the Connect
+              360 product, which is a client relationship management (CRM)
+              software for real estate agents. I was responsible for creating a
+              modern and user-friendly design that would improve the user
+              experience and increase adoption of the product. I worked closely
+              with the development team to ensure that the design was
+              implemented correctly and that it met the needs of our users.
+            </p>
           </div>
         </div>
       </div>

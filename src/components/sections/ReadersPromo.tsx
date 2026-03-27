@@ -64,7 +64,7 @@ function ReadersPromo() {
         // enable optional lightbox plugins
       />
 
-      <div className="row mb-5">
+      <div className="row mb-2">
         <div className="col-12 text-left pt-5 ps-2">
           <div className="d-flex align-items-start">
             <div className="col-sm-12">
@@ -75,7 +75,7 @@ function ReadersPromo() {
               />
             </div>
           </div>
-          <div className="mt-2 p-2 text-end description">
+          <div className="mt-3 p-2 text-start description col-xl-8 col-md-12">
             <h3>Reader's Digest Australia</h3>
             <p>EDM digital marketing.</p>
           </div>

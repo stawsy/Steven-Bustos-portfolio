@@ -81,9 +81,22 @@ function ReadersUI() {
               />
             </div>
           </div>
-          <div className="mt-2 p-2 text-end description">
+          <div className="mt-3 p-2 text-start description col-xl-8 col-md-12">
             <h3>Reader's Digest Australia</h3>
             <p>Promotional mini-sites and data capture pages.</p>
+            <p className="mt-2">
+              I worked as a digital promotions designer, creating mini-sites and
+              landing pages for Reader’s Digest Australia. A big part of my role
+              was designing and building interactive pages that supported their
+              printed sweepstakes campaigns.
+            </p>
+            <p className="mt-2">
+              The focus was building Reader's online presence, increasing
+              website traffic and ensuring a seamless user experience from print
+              material. The goal was always on making the pages engaging and
+              easy to use, which helped improve overall response and campaign
+              performance.
+            </p>
           </div>
         </div>
       </div>

@@ -12,50 +12,50 @@ function UserInterface() {
       <div className="row mb-5">
         <div className="col-lg-10 col-md-8 col-sm-6 col-xs-12 text-left pt-5 ps-2">
           <div className="d-flex align-items-start">
-            <div className="col-md-2 col-sm-12"></div>
-            <div className="col-md-10 col-sm-12">
+            <div className="col-md-1 col-sm-12"></div>
+            <div className="col-md-11 col-sm-12">
               <EducationInsights></EducationInsights>
             </div>
           </div>
           <div className="clearfix visible-xs-block"></div>
           <div className="d-flex align-items-start">
-            <div className="col-md-2 col-sm-12"></div>
-            <div className="col-md-10 col-sm-12">
+            <div className="col-md-1 col-sm-12"></div>
+            <div className="col-md-11 col-sm-12">
               <JourneyLab></JourneyLab>
             </div>
           </div>
           <div className="clearfix visible-xs-block"></div>
           <div className="d-flex align-items-start">
-            <div className="col-md-2 col-sm-12"></div>
-            <div className="col-md-10 col-sm-12">
+            <div className="col-md-1 col-sm-12"></div>
+            <div className="col-md-11 col-sm-12">
               <DataNSW></DataNSW>
             </div>
           </div>
           <div className="clearfix visible-xs-block"></div>
           <div className="d-flex align-items-start">
-            <div className="col-md-2 col-sm-12"></div>
-            <div className="col-md-10 col-sm-12">
+            <div className="col-md-1 col-sm-12"></div>
+            <div className="col-md-11 col-sm-12">
               <TicketSearch></TicketSearch>
             </div>
           </div>
           <div className="clearfix visible-xs-block"></div>
           <div className="d-flex align-items-start">
-            <div className="col-md-2 col-sm-12"></div>
-            <div className="col-md-10 col-sm-12">
+            <div className="col-md-1 col-sm-12"></div>
+            <div className="col-md-11 col-sm-12">
               <Capstone></Capstone>
             </div>
           </div>
           <div className="clearfix visible-xs-block"></div>
           <div className="d-flex align-items-start">
-            <div className="col-md-2 col-sm-12"></div>
-            <div className="col-md-10 col-sm-12">
+            <div className="col-md-1 col-sm-12"></div>
+            <div className="col-md-11 col-sm-12">
               <PropertyDollar></PropertyDollar>
             </div>
           </div>
           <div className="clearfix visible-xs-block"></div>
           <div className="d-flex align-items-start">
-            <div className="col-md-2 col-sm-12"></div>
-            <div className="col-md-10 col-sm-12">
+            <div className="col-md-1 col-sm-12"></div>
+            <div className="col-md-11 col-sm-12">
               <ReadersUI></ReadersUI>
             </div>
           </div>

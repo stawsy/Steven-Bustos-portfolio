@@ -46,7 +46,7 @@ function DataNSW() {
         // enable optional lightbox plugins
       />
 
-      <div className="row mb-5">
+      <div className="row mb-2">
         <div className="col-12 text-left pt-5 ps-2">
           <div className="d-flex align-items-start">
             <div className="col-sm-12">
@@ -57,22 +57,26 @@ function DataNSW() {
               />
             </div>
           </div>
-          <div className="mt-3 p-2 text-start description col-6">
+          <div className="mt-3 p-2 text-start description col-xl-8 col-md-12">
             <h3>Data.NSW and Metadata.NSW</h3>
             <p>
               The{" "}
               <a href="https://data.nsw.gov.au" target="_blank">
                 data.nsw.gov.au
               </a>{" "}
-              website is managed by the Department of Customer Service, and also
-              is home to the Open Data Portal.
-            </p>
-            <p className="mt-2">
-              The{" "}
+              and{" "}
               <a href="https://www.metadata.nsw.gov.au/" target="_blank">
                 metadata.nsw.gov.au
               </a>{" "}
-              website is managed by the Department of Customer Service.
+              platforms are managed by the Department of Customer Service.
+              Data.NSW is built on Drupal, and also hosts the Open Data portal
+              powered by CKAN.
+            </p>
+            <p className="mt-2">
+              As lead designer, I drove a full platform style refresh on both
+              sites—redesigning the homepage and key landing pages, and bringing
+              the experience into alignment with the NSW Design System to
+              improve usability, consistency, and accessibility.
             </p>
           </div>
         </div>
