@@ -77,7 +77,20 @@ function ReadersPromo() {
           </div>
           <div className="mt-3 p-2 text-start description col-xl-8 col-md-12">
             <h3>Reader's Digest Australia</h3>
-            <p>EDM digital marketing.</p>
+            <p>Digital promotions and marketing.</p>
+            <p className="mt-2">
+              At Reader's Digest, I was responsible for designing and
+              implementing digital promotions and marketing materials across
+              APAC markets including Australia, New Zealand, Singapore, South
+              Africa and Malaysia. I worked closely with the digital marketing
+              team to create visually engaging promotional content that aligned
+              with the brand's identity and printed marketing materials.
+            </p>
+            <p className="mt-2">
+              My role involved creating microsites and web banners for
+              marketing, and videos for new products that were sold through the
+              mail order system.
+            </p>
           </div>
         </div>
       </div>

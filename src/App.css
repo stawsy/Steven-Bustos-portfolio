@@ -29,7 +29,7 @@ h1 {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
     color: #fb452b;
     font-family: "DynaPuff", system-ui;
     font-optical-sizing: auto;
@@ -38,7 +38,7 @@ h2 {
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 24px;
     color: #fb452b;
     font-family: "DynaPuff", system-ui;
     font-optical-sizing: auto;
@@ -162,7 +162,6 @@ p {
 }
 
 .description p {
-    font-size: 18px;
     margin-bottom: 0rem;
 }
 
@@ -173,8 +172,45 @@ h1 {
     font-size: 40px;
 }
 
+p {
+    font-size: 14px;
+}
+
+.p-5 {
+    padding: 1rem !important;
+}
+
+.pt-5 {
+    padding-top: 1rem !important;
+}
+
+.mt-5 {
+    margin-top: 1rem !important;
+}
+
+.pb-5 {
+    padding-bottom: 1rem !important;
+}
+
+.mb-5 {
+    margin-bottom: 1rem !important;
+}
+
+.header {
+    height: 80px;
+}
+
 .clouds {
     display: none;
 }
 
+.userinterface,
+.marketing {
+    flex-direction: column-reverse;
+}
+
+.section.p-2 {
+    padding: 0em !important;
+    margin-top: 2em !important;
+}
 }

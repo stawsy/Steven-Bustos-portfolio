@@ -45,7 +45,21 @@ function AICD() {
           </div>
           <div className="mt-3 p-2 text-start description col-xl-8 col-md-12">
             <h3>Australian Institute of Company Directors</h3>
-            <p>EDM digital marketing.</p>
+            <p>Electronic digital marketing.</p>
+            <p className="mt-2">
+              At Australian Institute of Company Directors, I was responsible
+              for designing and implementing EDMs for marketing campaigns. I
+              collaborated closely with the marketing team to create visually
+              engaging and effective email templates that aligned with the
+              organization's branding and messaging.
+            </p>
+            <p className="mt-2">
+              My work involved using design software to create compelling
+              layouts, as well as ensuring that the EDMs were optimized for
+              various email clients and mobile devices. Through this role, I
+              contributed to the success of marketing initiatives by delivering
+              high-quality EDM designs that resonated with the target audience.
+            </p>
           </div>
         </div>
       </div>

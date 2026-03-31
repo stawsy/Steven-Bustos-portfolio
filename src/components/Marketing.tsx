@@ -4,20 +4,22 @@ import ReadersPromo from "./sections/ReadersPromo";
 function Marketing() {
   return (
     <>
-      <div className="row mb-5 pt-3">
+      <div className="row mb-5 pt-3 marketing">
         <div className="col-lg-10 col-md-8 col-sm-6 col-xs-12 text-left ">
           <div className="d-flex align-items-start">
             <div className="col-md-1 col-sm-12"></div>
-            <div className="col-md-11 col-sm-12">
+            <div className="col-md-10 col-sm-12">
               <AICD></AICD>
             </div>
+            <div className="col-md-1 col-sm-12"></div>
           </div>
           <div className="clearfix visible-xs-block"></div>
           <div className="d-flex align-items-start">
             <div className="col-md-1 col-sm-12"></div>
-            <div className="col-md-11 col-sm-12">
+            <div className="col-md-10 col-sm-12">
               <ReadersPromo></ReadersPromo>
             </div>
+            <div className="col-md-1 col-sm-12"></div>
           </div>
         </div>
         <div className="col-lg-2 col-md-2 col-sm-12 col-xs-12 text-left">
