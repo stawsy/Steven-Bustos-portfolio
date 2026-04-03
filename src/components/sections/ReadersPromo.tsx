@@ -70,7 +70,7 @@ function ReadersPromo() {
             <div className="col-sm-12">
               <ColumnsPhotoAlbum
                 photos={slides}
-                columns={4}
+                columns={5}
                 onClick={({ index }) => setIndex(index)}
               />
             </div>

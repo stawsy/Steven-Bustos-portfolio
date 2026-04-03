@@ -12,7 +12,7 @@ import ImgTrends from "../../assets/DoE-insights-dashboard-trends.png";
 
 function EducationInsights() {
   const [index, setIndex] = useState(-1);
-  const insights = [
+  const slides = [
     { src: ImgDashboard, width: 1178, height: 786 },
     { src: ImgLBOTE, width: 1296, height: 768 },
     { src: ImgTrends, width: 1296, height: 838 },
@@ -21,7 +21,7 @@ function EducationInsights() {
   return (
     <>
       <Lightbox
-        slides={insights}
+        slides={slides}
         open={index >= 0}
         index={index}
         close={() => setIndex(-1)}
@@ -33,7 +33,7 @@ function EducationInsights() {
           <div className="d-flex align-items-start">
             <div className="col-sm-12">
               <RowsPhotoAlbum
-                photos={insights}
+                photos={slides}
                 targetRowHeight={150}
                 onClick={({ index }) => setIndex(index)}
               />

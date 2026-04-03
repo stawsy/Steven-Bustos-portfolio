@@ -76,7 +76,7 @@ function ReadersUI() {
             <div className="col-sm-12">
               <ColumnsPhotoAlbum
                 photos={slides}
-                columns={4}
+                columns={3}
                 onClick={({ index }) => setIndex(index)}
               />
             </div>
